@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/proger2026',
+  basePath: '/proger2026true',
   typescript: {
     ignoreBuildErrors: true,
   },
